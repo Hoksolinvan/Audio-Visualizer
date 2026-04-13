@@ -4,7 +4,7 @@ A real-time audio spectrum visualizer that streams any YouTube video as audio an
  
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![pygame](https://img.shields.io/badge/pygame-2.x-green.svg)
-![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
+
  
 ---
  
